@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Redirects "shorts" to the canonical "watch?v=" url.
 // @author       dollhaus
+// @license      The Unlicense: Do whatever the fuck you want with this code, it is public domain.
 // @match        https://youtube.com/*
 // @run-at       document-start
 // @include      *youtube.com*
